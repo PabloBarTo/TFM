@@ -1,0 +1,16 @@
+venv/
+ff1_cache/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Claude Code (configuración local, no relevante para otros)
+.claude/
+
+# Windows
+Thumbs.db
+desktop.ini
