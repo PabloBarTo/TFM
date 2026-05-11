@@ -10,6 +10,7 @@ build/
 
 # Claude Code (configuración local, no relevante para otros)
 .claude/
+CLAUDE.md
 
 # Windows
 Thumbs.db
